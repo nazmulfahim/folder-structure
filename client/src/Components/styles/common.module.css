@@ -1,0 +1,29 @@
+.flex {
+  display: flex;
+}
+
+.justifyCenter {
+  justify-content: center;
+}
+.justifySpaceAround {
+  justify-content: space-around;
+}
+
+.folderSection {
+  flex-basis: 100%;
+}
+
+.margin10 {
+  margin: 10px;
+}
+
+.input {
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #000;
+}
+
+.subFolders {
+  margin: 10px;
+  margin-left: 20px;
+}

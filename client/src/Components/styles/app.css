@@ -1,0 +1,24 @@
+* {
+  letter-spacing: 0.1rem;
+  font-weight: 500;
+  font-size: large;
+  text-transform: capitalize;
+}
+a {
+  text-decoration: none;
+}
+
+img {
+  margin: 0;
+  cursor: pointer;
+}
+
+h1 {
+  margin: 40px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2em;
+}
+h3 {
+  color: #006b47;
+}

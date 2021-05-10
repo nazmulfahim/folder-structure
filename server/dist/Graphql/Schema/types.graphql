@@ -1,0 +1,5 @@
+type Folder {
+  _id: String!
+  name: String!
+  parentFolderID: String!
+}

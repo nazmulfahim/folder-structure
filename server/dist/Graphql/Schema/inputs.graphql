@@ -1,0 +1,8 @@
+input createFolderInputs {
+  name: String!
+  parentFolderID: String!
+}
+input updateFolderInputs {
+  _id: String!
+  name: String!
+}

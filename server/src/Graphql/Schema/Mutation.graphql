@@ -1,0 +1,6 @@
+type Mutation {
+  # Only Admins
+  createFolder(data: createFolderInputs!): Folder!
+  updateFolder(data: updateFolderInputs!): Boolean!
+  deleteFolder(id: String!): Boolean!
+}
